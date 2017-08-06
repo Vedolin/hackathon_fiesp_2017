@@ -1,0 +1,39 @@
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\Bot Application1.dll.config
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\Bot Application1.dll
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\Bot Application1.pdb
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\Autofac.dll
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\Chronic.dll
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\Newtonsoft.Json.dll
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\System.Net.Http.Formatting.dll
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\System.Web.Http.dll
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\System.Web.Http.WebHost.dll
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\Autofac.xml
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\Newtonsoft.Json.xml
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\System.Net.Http.Formatting.xml
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\System.Web.Http.xml
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\System.Web.Http.WebHost.xml
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\obj\Debug\Bot Application1.dll
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\obj\Debug\Bot Application1.pdb
+C:\Users\Abel\Desktop\Bootstrap\HackathonJonnhyBot\HackathonJonnhyBot\obj\Debug\HackathonJonnhyBot.csprojResolveAssemblyReference.cache
